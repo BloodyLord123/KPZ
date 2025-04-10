@@ -17,7 +17,7 @@ namespace task5
                           .SetWeight(95)
                           .SetHeight("190 см")
                           .AddClothing("Золоті лицарські обладунки Лордерону")
-                          .AddItem("Срібний Молот")
+                          .AddItem("Помста Світла")
                           .AddAction("Знищив Стратхольм")
                           .Build();
         }
